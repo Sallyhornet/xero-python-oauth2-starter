@@ -45,7 +45,7 @@ CLIENT_SECRET = "...client secret string..."
 
 ## Take it for a spin
 
-* Make sure your python virtual environment activated `source venv/bin/activate`
+* Make sure your python virtual environment activated `source venv/bin/activate` Windows users need to use `venv\scripts\activate.ps1`
 * Start flask application `python3 app.py`
 * Launch your browser and navigate to http://localhost:5000/login 
 * You should be redirected to Xero login page.
